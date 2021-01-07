@@ -1,0 +1,27 @@
+.jumbotron {
+    background: url("../assets/background.jpg") center;
+    background-size: cover;
+    height: 92.5vh;
+    color: white;
+    margin-bottom: 0;
+    font-family: 'Exo 2', sans-serif;
+}
+
+.display-4 {
+    font-weight: bold;
+    font-size: 50px;
+    text-shadow: 3px 3px #000000;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    text-decoration: underline;
+    text-decoration-color: rgb(255, 181, 44);
+    text-decoration-style: dotted;
+    text-decoration-thickness: 10px;
+    text-underline-offset: 25px;
+}
+
+.lead {
+    text-align: center;
+    font-size: 20px;
+    text-shadow: 2px 2px #000000;
+}

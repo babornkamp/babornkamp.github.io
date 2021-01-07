@@ -1,0 +1,82 @@
+#contact {
+    padding: 45px;
+    color: white;
+    margin: auto;
+    background: repeating-linear-gradient(45deg, var(--dark-grey), var(--dark-grey) 30px, var(--darker-grey) 30px, var(--darker-grey) 60px);
+}
+
+#contact h1 {
+    margin-bottom: 45px;
+    color: white;
+    text-shadow: 2px 2px #000000;
+    text-decoration: underline;
+    text-decoration-color: rgb(74, 23, 216);
+    text-decoration-style: dotted;
+    text-underline-offset: 15px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.form-group label {
+    text-shadow: 2px 2px #000000;
+}
+
+.control-group label {
+    text-shadow: 2px 2px #000000;
+}
+
+.col-6 {
+    margin: auto;
+}
+
+.btn {
+    color: white;
+    border-radius: 4px;
+    background-color: rgb(74, 23, 216);
+    text-shadow: 2px 2px black;
+    margin-bottom: 45px;
+}
+
+.phone {
+    text-align: center;
+}
+
+.col-3 {
+    margin: auto;
+    width: 250px;
+    background-color: var(--black);
+}
+
+tr {
+    background-color: var(--black);
+    color: white;
+}
+
+.additional-contact {
+    text-align: center;
+    color: white;
+}
+
+.phone-info {
+    background-color: var(--grey);
+    width: 300px;
+    height: auto;
+    margin: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 7px;
+}
+
+.phone-header {
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px black;
+}
+
+.phone-number {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    text-shadow: 2px 2px black;
+}
+

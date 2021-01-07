@@ -1,0 +1,20 @@
+#footer {
+    background-color: var(--black);
+    padding: 45px;
+    color: white;
+    font-size: 12px;
+}
+
+.nav-link {
+    font-weight: bold;
+    text-decoration: none;
+    background-color: transparent;
+    color: white;
+    font-size: 14px;
+    text-shadow: 2px 2px #000000;
+}
+
+#footer p {
+    text-align: center;
+}
+

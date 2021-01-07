@@ -1,0 +1,57 @@
+#projects {
+    padding: 45px;
+    background: repeating-linear-gradient(45deg, var(--dark-grey), var(--dark-grey) 30px, var(--darker-grey) 30px, var(--darker-grey) 60px);
+}
+
+#projects h1 {
+    margin-bottom: 45px;
+    color: white;
+    text-shadow: 2px 2px #000000;
+    text-decoration: underline;
+    text-decoration-color: rgb(74, 23, 216);
+    text-decoration-style: dotted;
+    text-underline-offset: 15px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.h5, h5 {
+    color: var(--black);
+    font-weight: bold;
+}
+
+#projects h6 {
+    color: white;
+    margin-bottom: 45px;
+    font-weight: 400;
+    font-size: 18px;
+    text-shadow: 2px 2px #000000;
+}
+
+p {
+    text-align: left;
+}
+
+tr {
+    background-color: white;
+    color: var(--black);
+}
+
+.github, a {
+    color: var(--black);
+}
+
+.table-git {
+    width: 750px;
+    margin: auto;
+    border-spacing: 5px;
+    margin-bottom: 45px;
+}
+
+.trine-link, .efa-link, .chs-link {
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+}

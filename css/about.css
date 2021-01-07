@@ -1,0 +1,49 @@
+#about-me {
+    background-color: var(--black);
+    padding: 45px;
+    color: white;
+}
+
+#about-me h1 {
+    margin-bottom: 25px;
+    color: white;
+    text-shadow: 2px 2px #000000;
+    text-decoration: underline;
+    text-decoration-color: rgb(74, 23, 216);
+    text-decoration-style: dotted;
+    text-underline-offset: 15px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+tr {
+    background-color: white;
+    color: var(--black);
+}
+
+#carouselExampleIndicators {
+    width: 500px;
+    margin: auto;
+}
+
+p {
+    text-align: left;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: rgb(74, 23, 216);
+    text-shadow: 2px 2px #000000;
+}
+
+.media-body h5 {
+    text-shadow: 2px 2px #000000;
+}
+
+.table-resume {
+    width: 750px;
+    margin: auto;
+    border-spacing: 5px;
+    margin-bottom: 45px;
+}
+
